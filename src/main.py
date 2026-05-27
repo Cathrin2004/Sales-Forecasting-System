@@ -49,4 +49,6 @@ plt.ylabel("Sales")
 
 plt.legend()
 
+plt.savefig("outputs/forecast_graph.png")
+
 plt.show()
