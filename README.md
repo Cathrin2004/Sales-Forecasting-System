@@ -29,3 +29,6 @@ Superstore sales dataset containing:
 
 ## Objective
 To predict future sales trends using historical sales data.
+
+## Author
+Cathrin Mariya A
